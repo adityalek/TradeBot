@@ -1,13 +1,7 @@
-# This was mostly a university and personal project and will no longer be updated
-
-![TradeBotWide](https://user-images.githubusercontent.com/54057327/110005245-f18e6a80-7d20-11eb-9798-c6bb1213c508.png)
-
 TradeBot is a cryptocurrency trading bot that uses the Binance API, and a strategy based on a couple of 5 minute chart
 indicators
 
 - (RSI, MACD, Bollinger Bands)
-
-[Download the latest release](https://github.com/markusaksli/TradeBot/releases/latest)
 
 ### How?
 
